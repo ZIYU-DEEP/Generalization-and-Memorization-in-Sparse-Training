@@ -1,5 +1,5 @@
 # Generalization and Memorization in Sparse Neural Networks
-[![Python 3.8](https://img.shields.io/badge/Python-3.8-blueviolet.svg)](https://www.python.org/downloads/release/python-380/) [![Pytorch](https://img.shields.io/badge/Pytorch-1.12.1-critical.svg)](https://github.com/pytorch/pytorch/releases/tag/v1.12.0) [![License](https://img.shields.io/badge/License-Apache%202.0-ff69b4.svg)](https://opensource.org/licenses/Apache-2.0) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-success.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Python 3.8](https://img.shields.io/badge/Python-3.8-blueviolet.svg)](https://www.python.org/downloads/release/python-380/) [![Pytorch](https://img.shields.io/badge/Pytorch-1.12.1-critical.svg)](https://github.com/pytorch/pytorch/releases/tag/v1.12.0) [![License](https://img.shields.io/badge/License-Apache%202.0-ff69b4.svg)](https://opensource.org/licenses/Apache-2.0) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-success.svg)](https://github.com/ZIYU-DEEP/Generalization-and-Memorization-in-Sparse-Training)
 
 ![illustration](illustration.png)
 
